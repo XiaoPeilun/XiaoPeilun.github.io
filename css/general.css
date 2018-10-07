@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.top{
+    padding: 10px;
+    padding-left: 1px;
+    margin: 25px;
+    margin-left: 60px;
+    width: 650px;
+    font-size: 26px;
+    border-bottom:  #0099ff solid 3px;
+}
+
+
+.main1{
+    margin-left: 60px;
+    width: 655px;
+}
+
+
+.title1{
+    padding-top: 10px;
+    font-size: 22px;
+}
