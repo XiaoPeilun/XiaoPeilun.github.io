@@ -4,21 +4,40 @@ body{
 }
 
 .top{
-    padding: 10px;
-    padding-left: 1px;
     margin: 25px;
     margin-left: 60px;
-    width: 650px;
-    font-size: 26px;
-    border-bottom:  #0099ff solid 3px;
+    margin-top: 50px;
+    width: 1000px;
+    height: 170px;
 }
 
+
+
+.upleft{
+    float: left;
+    width: 580px;
+    font-size: 26px;
+    padding-bottom: 10px;
+    border-bottom: #0099ff solid 3px;
+}
+
+.upright{
+    float: left;
+    margin-left: 20px;
+    width: 200px;
+    height: 58px;
+}
+
+.downleft{
+    float: left;
+    width: 580px;
+}
 
 .main1{
     margin-left: 60px;
-    width: 655px;
+    width: 1000px;
+    height: 350px;
 }
-
 
 .title1{
     padding-top: 10px;
@@ -28,7 +47,7 @@ body{
 .psize{
     margin: 8px;
     margin-left: 30px;
-    width: 655px;
+    width: 620px;
 }
 
 .psize2{
@@ -39,4 +58,20 @@ body{
 .psize3{
     margin: 0px;
     margin-left: 50px;
+}
+
+
+.topstudy{
+    margin: 25px;
+    margin-left: 60px;
+    margin-top: 50px;
+    width: 662px;
+    font-size: 26px;
+    padding-bottom: 10px;
+    border-bottom: #0099ff solid 3px;
+}
+
+.main2{
+    margin-left: 60px;
+    width: 655px;
 }
