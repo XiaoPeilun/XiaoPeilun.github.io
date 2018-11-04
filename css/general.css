@@ -50,6 +50,7 @@ body{
 
 .psize2{
     margin: 3px;
+    margin-bottom: 5px;
     margin-left: 30px;
 }
 
@@ -72,3 +73,38 @@ body{
     margin-left: 60px;
     width: 655px;
 }
+
+
+.topres{
+    margin: 25px;
+    margin-left: 60px;
+    margin-top: 50px;
+    width: 780px;
+    font-size: 26px;
+    padding-bottom: 10px;
+    border-bottom: #0099ff solid 3px;
+}
+
+.main3{
+    margin-left: 60px;
+    width: 780px;
+    height: 1200px;
+}
+
+.rtitle{
+    margin: 8px;
+    margin-left: 30px;
+    width: 750px;
+}
+
+.rtitle2{
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.rul{
+    margin: 5px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
