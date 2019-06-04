@@ -42,6 +42,10 @@ body{
     font-size: 20px;
 }
 
+.title2{
+    font-size: 16px;
+}
+
 .psize{
     margin: 8px;
     margin-left: 30px;
@@ -94,11 +98,13 @@ body{
 .rtitle{
     margin: 8px;
     margin-left: 30px;
+    margin-top: 10px;
     width: 750px;
 }
 
 .rtitle2{
     padding-top: 10px;
+    padding-bottom: 5px;
     font-size: 20px;
 }
 
